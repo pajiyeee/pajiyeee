@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=160&section=header&text=I'm%20Jiyeoun👋&fontSize=54&section=header)
 
 
-**Tech Stack 💻**
+**💻 Tech Stack Studying 💻**
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-275%20hrs%2042%20mins-blue)
