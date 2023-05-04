@@ -7,8 +7,12 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-275%20hrs%2042%20mins-blue)
 <br/>
-<img src=“https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=white”/> <img src=“https://img.shields.io/badge/React-61DAFB.svg?style=flat-square&logo=React&logoColor=white”/> <img src=“https://img.shields.io/badge/Styled Components-DB7093.svg?style=flat-square&logo=styledcomponents&logoColor=white”/> <img src=“https://img.shields.io/badge/Figma-F24E1E.svg?style=flat-square&logo=figma&logoColor=white”/> <img src=“https://img.shields.io/badge/amazons3-569A31.svg?style=flat-square&logo=amazons3&logoColor=white”/> <img src=“https://img.shields.io/badge/github-181717.svg?style=flat-square&logo=github&logoColor=white”/> 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
 
