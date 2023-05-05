@@ -7,7 +7,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-276%20hrs%2022%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-294%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB.svg?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Styled Components-DB7093.svg?style=flat-square&logo=styledcomponents&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/amazons3-569A31.svg?style=flat-square&logo=amazons3&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717.svg?style=flat-square&logo=github&logoColor=white"/> 
+
+
+<br />
 
 **저는 아침형 인간이에요. 🐤** 
 
