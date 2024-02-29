@@ -8,7 +8,6 @@
 https://github.com/pajiyeee
 
 **Blog** <br/>
-https://blog-pajiyeee.vercel.app/
 <br/>
 https://pajiyeee.tistory.com/
 
