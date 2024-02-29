@@ -8,7 +8,6 @@
 https://github.com/pajiyeee
 
 **Blog** <br/>
-<br/>
 https://pajiyeee.tistory.com/
 
 **Email** <br/>
